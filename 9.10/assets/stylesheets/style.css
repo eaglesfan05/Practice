@@ -1,0 +1,39 @@
+body {
+  background: url(../images/bmw-1313343_1920.jpg) center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
+  font-family: "Kufam", cursive;
+}
+
+.navbar {
+  background: rgba(56, 85, 96, 0.7);
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  font-size: 3vh;
+}
+
+.navbar-toggler {
+  color: white;
+}
+
+.navbar li a:hover {
+  color: #cb7e47;
+  font-size: 4vh;
+  padding: 0px 10px;
+}
+
+.navbarNav {
+  margin: 0 auto;
+}
+
+.jumbotron {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  width: 75%;
+  margin: 70px auto;
+  color: white;
+  border-radius: 0;
+}
